@@ -2,6 +2,7 @@
 
 ## Alhambra 0,0 Clásica
 - Tapas granadinas
+- Tapas+Bebida
 
 ## Alhambra 0,0 Tostada
 - Frutos secos
